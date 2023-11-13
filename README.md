@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Python Developer || Web Development || DevOps ||
 -------------------------------------------------------
 
-I am a passionate and dedicated individual with a strong drive for excellence. I actively pursue opportunities to expand my knowledge and explore new interests in my free time. My unwavering commitment to personal growth fuels my ambition, and I thrive when faced with challenges.
+I am a young person with creative thinking and enthusiasm for technology and passion for technical accuracy.
+I have worked successfully in diverse environments, contributing to the achievement of team goals through clear communication and effective coordination. In addition, I stand out with the ability to learn quickly and adapt to the essentials in a dynamic field like IT
 
 * 🌍  I'm based in București,RO
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/horoiucezarcvwriting/)
