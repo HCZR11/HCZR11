@@ -10,7 +10,7 @@ I have worked successfully in diverse environments, contributing to the achievem
 * 🌍  I'm based in București,RO
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/horoiucezarcvwriting/)
 * ✉️  You can contact me at [horoiucezar@yahoo.com](mailto:horoiucezar@yahoo.com)
-* 🧠  I'm learning Python Networking
+* 🧠  I'm learning JavaScript
 
 ### Skills
 
