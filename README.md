@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Horoiu Cezar
 ====================================================================================================================================
 
-Junior Python Developer || Web Development || DevOps ||
--------------------------------------------------------
+Junior Python Developer || Web Development || DevOps || Linux || Flask || Django ||
 
 I am a young person with creative thinking and enthusiasm for technology and passion for technical accuracy.
 I have worked successfully in diverse environments, contributing to the achievement of team goals through clear communication and effective coordination. In addition, I stand out with the ability to learn quickly and adapt to the essentials in a dynamic field like IT
